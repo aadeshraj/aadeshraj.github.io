@@ -14,7 +14,7 @@ function A4Box() {
       backgroundColor="gray.900"
     >
       <Box
-        width="calc(100vh * (210 / 297))"
+        width="calc(100vh * (230 / 297))"
         height="100vh"
         maxWidth="100%"
         border="1px solid black"
